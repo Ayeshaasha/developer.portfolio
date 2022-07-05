@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 5%;
+}
+
+.green {
+    color: blueviolet;
+}
+
+.green {
+    color: rgb(228, 22, 101);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 5%;
+}
